@@ -283,4 +283,13 @@ Do you want to integrate the code with media_processor.py or RoomAllocationAgent
 
 Do you need documentation for integration?
 
+
 Final Word: This project is a pioneering idea that combines text, voice, and motion interactions in an innovative way! Applications like Hugging Face, Coqui TTS, and WaveNet offer opportunities to improve the quality of audio and text, while the ViH Framework enhances interactivity using RLHF.
+
+How to run it
+
+Install the requirements: Bashpip install matplotlib pygame gtts epitran panphon
+# Optional (but improves the result):
+pip install g2p-en
+Run the main file: Bashpython human_speech.py
+To display the animation only (if a JSON file was created previously): Bashpython human_speech.py ​​--demo-only
