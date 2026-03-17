@@ -1,3 +1,16 @@
+Basic Design Concept:
+
+Building a multifunctional interactive voice engine by linking several parts:
+
+Linking tongue movement to teeth movement.
+
+Linking teeth to facial muscular movement.
+Linking the interaction between facial expressions, hand expressions, and body movement.
+
+Timeline: The idea for this design model began on June 23, 2025, at a time when this design was not yet established. Most systems at that time relied on instantaneous engineering as a single integrated engine (instantaneous generation → direct generation). The concept of using a "sequential linking" architecture had not yet emerged.
+
+This aims to equip the engine with speech and voice expression techniques through functions (the interaction between facial expressions, hand expressions, and body movement), functions that were not integrated into other traditional generative design engines.
+
 Human Speech, Animal Communication with Sounds, and Their Applications in Artificial Intelligence
 
 Key Points
